@@ -28,7 +28,7 @@ Analyzing coffee bean data to uncover key quality factors.
 [View on GitHub](https://github.com/Emilybolivar05/coffee_quality)
 
 ### 4. lab_numpy
-Short description of the project here.  
+Practice and apply basic NumPy concepts, including array creation and manipulation, mathematical operations, and calculating descriptive statistics. 
 [View on GitHub](https://github.com/Emilybolivar05/lab_numpy)
 
 ### 5. tip-calculator-python
