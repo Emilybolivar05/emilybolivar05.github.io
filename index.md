@@ -3,6 +3,10 @@ layout: default
 title: Emily Alvarado Portfolio
 ---
 
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+
 # 👋 Hi, I'm Emily Alvarado
 Software Engineer & Aspiring Data Analyst  
 Passionate about coding, learning, and creating clean, functional projects.
