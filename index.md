@@ -7,13 +7,13 @@ title: Emily Alvarado Portfolio
 <link rel="stylesheet" href="assets/css/style.css">
 
 
-# 👋 Hi, I'm Emily Alvarado
+# Hi, I'm Emily Alvarado 👋 
 Software Engineer & Aspiring Data Analyst  
 Passionate about coding, learning, and creating clean, functional projects.
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 1. memory_game
 A fun and colorful memory card game. Flip the cards, match the pairs, and unlock harder levels as you go! Perfect for practicing your memory and having some coding fun.
@@ -45,12 +45,12 @@ This is a simple Python-based secure password generator. It allows users to spec
 
 ---
 
-## 📊 Coming Soon: Power BI Dashboards
+## Coming Soon: Power BI Dashboards
 Interactive dashboards and data visualizations will be added soon.
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: emilybolivar1505@gmail.com
 - LinkedIn: https://www.linkedin.com/in/emilyalvaradob/  
 - GitHub: https://github.com/Emilybolivar05
